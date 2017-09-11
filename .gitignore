@@ -59,3 +59,12 @@ typings/
 
 # gradle cache directory
 .gradle
+
+# IntelliJ IDEA
+*.iml
+.idea
+build
+gradle
+gradlew
+gradlew.bat
+
